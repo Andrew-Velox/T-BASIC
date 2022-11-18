@@ -1,0 +1,2 @@
+# TBASIC
+💥 TERMUX BASIC INSTALLER 💥
