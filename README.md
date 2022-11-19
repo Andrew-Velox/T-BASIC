@@ -2,7 +2,7 @@
 💥 TERMUX BASIC INSTALLER 💥
 
 
-#Instalation
+# Instalation 
 
 - `apt update`
 
